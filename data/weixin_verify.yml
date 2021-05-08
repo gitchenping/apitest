@@ -1,0 +1,4 @@
+#初始设置各字段值
+#custid
+custid: 123444
+result_format: json

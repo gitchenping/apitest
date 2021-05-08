@@ -1,0 +1,4 @@
+INFO     combinelogger:log.py:91 http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=11024&custid_child=123&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+INFO     combinelogger:log.py:92 except msg:custid %s is not bind mobile
+INFO     combinelogger:log.py:93 {'return_msg': 'custid 11024 is not bind mobile', 'return_code': '1019'}
+INFO     combinelogger:log.py:94

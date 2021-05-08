@@ -1,0 +1,20 @@
+#用户id
+cust_id: 1232131
+#公司名称
+cust_company: 中国第一合作责任有限企业-test
+#公司负责人
+cust_contractor: 李二狗-test
+#公司电话
+cust_telphone: 010-10000001
+#省
+cust_province_id: 2
+#市
+cust_city_id: 3
+#区
+cust_town_id: 5
+#街道
+cust_quarter_id: 1110801
+#地址
+cust_address: 北京东三环静安中心-test
+#返回的格式(json/xml)
+result_format: json

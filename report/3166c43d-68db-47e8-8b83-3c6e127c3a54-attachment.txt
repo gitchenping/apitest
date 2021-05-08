@@ -1,0 +1,4 @@
+INFO     combinelogger:log.py:91 http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=&custid_child=123&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+INFO     combinelogger:log.py:92 except msg:The wrong parameter:({%s}:{%s})
+INFO     combinelogger:log.py:93 {'return_msg': 'The wrong parameter:({custid_parent}:{null})', 'return_code': '1001'}
+INFO     combinelogger:log.py:94

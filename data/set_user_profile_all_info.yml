@@ -1,0 +1,38 @@
+#用户id
+cust_id: 123456
+#居住地 new_address
+cust_address: 199
+#居住地 显示状态 0：不显示 1：显示
+cust_address_show: 1
+#性别 new_sex
+cust_sex: 0
+#账户性别显示状态 0：不显示 1：显示
+cust_sex_show: 1
+#身份类别 station_type
+cust_job_type: worker
+#身份 station
+cust_job: 5
+#身份显示状态 0：不显示 1：显示
+cust_job_show: 1
+#生日 new_birthday
+cust_birthday: 1990-03-03
+#生日 显示状态 0：不显示 1：显示
+cust_birthday_show: 1
+#博客地址 blog_url
+cust_blog: http://www.blogtest.com
+#博客地址 显示状态 0：不显示 1：显示
+cust_blog_show: 1
+#居住状态 state
+cust_life_style:
+#居住状态 显示状态 0：不显示 1：显示
+cust_life_style_show: 1
+#兴趣爱好 interest
+cust_interest: driver
+#兴趣爱好 显示状态 0：不显示 1：显示
+cust_interest_show: 1
+#自我介绍 introduct
+cust_introduce: 别介绍了，就这样了
+#自我介绍 显示状态 0：不显示 1：显示
+cust_introduce_show: 1
+#返回的格式(json/xml)
+result_format: json

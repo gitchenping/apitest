@@ -1,0 +1,34 @@
+#初始设置各字段值
+#用户邮箱
+email: fake123@qq.com
+#用户密码
+password: dd1234
+#微信union_id
+union_id: fake123123test1231
+#验证标识 （0：未验证 1：已验证）
+validated_flag: 1
+#1104, // 当当入驻返利网
+#2001, // BD的iphone客户端
+#2002, // BD的android客户端
+#2003, // BD的ipad客户端
+#2004, // BD的apad客户端
+#2200, // BD端微信绑定当当账户
+appkey: 2200
+#open_id
+open_id: fakeopenid201912247891122
+#用户手机
+mobilephone: 18811340099
+#用户昵称（只能由小写英文字母、中文、数字组成，不能为纯数字，长度4－20个字符，一个汉字为两个字符）
+nickname: fakenickname
+#来源地址, customers表用
+registerfrom:
+#注册时ip
+ip_address: 192.168.100.200
+#cookie["__permant_id"]
+permanent_id: 1231231132131313
+#cookie["__trace_id"]
+trace_id: 12312213122222222
+#来源地址,记录日志用
+source_url: http://www.testweb.com
+#返回格式
+result_format: json

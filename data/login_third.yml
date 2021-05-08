@@ -1,0 +1,25 @@
+#第三方ID
+cust_third_id: 111111
+#第三方标识（1->平安，2->财富通，3->qq返利，4->中国移动手机，5->sina，6->qq，7->alipay，8->renren，9->netease，10->msn，11->baidu，12->139，13->fetion）
+third_id: 200
+#具体请参见上面的appkey参数说明表格 （如果有别的项目需要调用此接口，请先申请分配一个appkey的值）
+appkey: 1000
+#ip地址
+clientIP: 192.168.90.19
+permanent_id: 232341211109877
+udid: 2333333333333987651
+trace_id: 2322222222221111119867
+source_url: http://www.dangdang.com/index.php
+#存储数盟数据相关设备信息等，必须是json格式
+android_device:
+#微信昵称
+petname: wechattogther
+#微信头像
+imgurl:
+#微信openid 微信第三方登录传递，其他第三方无需
+openid: Ex23234261924012
+#qq的union_id qq第三方登录传递，其他第三方无需 20190610
+qq_union_id:
+#性别 （微信性别 0 男 1 女）
+cust_sex: 0
+result_format: json

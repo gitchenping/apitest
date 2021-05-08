@@ -1,0 +1,8 @@
+#主账号id
+union_id: 1234567890
+appkey: 1000
+ip_address: 192.168.90.23
+permanent_id: 232984391213121289090
+open_id: 89232121231339080
+#返回格式
+result_format: json

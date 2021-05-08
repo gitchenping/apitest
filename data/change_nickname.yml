@@ -1,0 +1,15 @@
+#修改用户昵称
+#用户id
+custid: 286427653
+#新用户的昵称
+new_nickname:
+#类型
+type: 81
+#clientIP
+clientIP: 192.168.90.09
+#前后端调用
+isFrontendCall: no
+comment:
+#调用者
+operatorName: auto_tester
+result_format: json

@@ -1,0 +1,4 @@
+INFO     register_third:log.py:101 http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=ocil5uLlAbVjOWAqP6u59zy5AP1zr&is_third_create=1&third_id=200&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+INFO     register_third:log.py:102 except msg:往customer库的Customers表里插入用户注册数据操作失败
+INFO     register_third:log.py:103 {'errorCode': '1', 'statusCode': '-5'}
+INFO     register_third:log.py:104

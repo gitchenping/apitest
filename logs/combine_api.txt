@@ -1,0 +1,124 @@
+2021-01-22 11:50:16 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=&custid_child=123&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:50:16 - combinelogger - INFO - except msg:The wrong parameter:({%s}:{%s})
+2021-01-22 11:50:16 - combinelogger - INFO - {'return_msg': 'The wrong parameter:({custid_parent}:{null})', 'return_code': '1001'}
+2021-01-22 11:50:16 - combinelogger - INFO -  
+2021-01-22 11:50:16 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=123123123&custid_child=321321321&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:50:16 - combinelogger - INFO - except msg:custid xxx not exist
+2021-01-22 11:50:16 - combinelogger - INFO - {'return_msg': 'custid 123123123 not exist', 'return_code': '1002'}
+2021-01-22 11:50:16 - combinelogger - INFO -  
+2021-01-22 11:50:16 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=11002&custid_child=123&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:50:16 - combinelogger - INFO - except msg:custid %s is not bind mobile
+2021-01-22 11:50:16 - combinelogger - INFO - {'return_msg': 'custid 11002 is not bind mobile', 'return_code': '1019'}
+2021-01-22 11:50:16 - combinelogger - INFO -  
+2021-01-22 11:50:16 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50226762&custid_child=50229482&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:50:16 - combinelogger - INFO - except msg:custid %s already bind mobile
+2021-01-22 11:50:16 - combinelogger - INFO - {'return_msg': 'custid 50229482 already bind mobile', 'return_code': '1017'}
+2021-01-22 11:50:16 - combinelogger - INFO -  
+2021-01-22 11:50:16 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50247794&custid_child=50248511&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:50:16 - combinelogger - INFO - except msg:custid %s already bind same type third
+2021-01-22 11:50:16 - combinelogger - INFO - {'return_msg': 'custid 50247794 already bind same type third', 'return_code': '1018'}
+2021-01-22 11:50:16 - combinelogger - INFO -  
+2021-01-22 11:50:16 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50244688&custid_child=50244760&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:50:16 - combinelogger - INFO - except msg:custid %s already bind same type third
+2021-01-22 11:50:16 - combinelogger - INFO - {'return_msg': 'custid 50244688 already bind same type third', 'return_code': '1018'}
+2021-01-22 11:50:16 - combinelogger - INFO -  
+2021-01-22 11:50:17 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50226762&custid_child=11104&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:50:17 - combinelogger - INFO - except msg:custid xxx combine repeat verify fail
+2021-01-22 11:50:17 - combinelogger - INFO - {'return_msg': 'custid 11104 combine repeat verify fail', 'return_code': '1004'}
+2021-01-22 11:50:17 - combinelogger - INFO -  
+2021-01-22 11:50:17 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=720002097&custid_child=11152&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:50:17 - combinelogger - INFO - except msg:custid %s already apply cancel
+2021-01-22 11:50:17 - combinelogger - INFO - {'return_msg': 'custid 720002097 already apply cancel', 'return_code': '1016'}
+2021-01-22 11:50:17 - combinelogger - INFO -  
+2021-01-22 11:50:17 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=730000688&custid_child=11152&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:50:17 - combinelogger - INFO - except msg:custid %s enterprise verify fail
+2021-01-22 11:50:17 - combinelogger - INFO - {'return_msg': 'custid 730000688 enterprise verify fail', 'return_code': '1005'}
+2021-01-22 11:50:17 - combinelogger - INFO -  
+2021-01-22 11:50:18 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50226762&custid_child=11152&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:50:18 - combinelogger - INFO - except msg:success
+2021-01-22 11:50:18 - combinelogger - INFO - {'return_msg': 'database fail', 'return_code': '2002'}
+2021-01-22 11:50:18 - combinelogger - INFO -  
+2021-01-22 11:50:24 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50226762&custid_child=11152&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:50:24 - combinelogger - INFO - except msg:success
+2021-01-22 11:50:24 - combinelogger - INFO - {'return_msg': 'database fail', 'return_code': '2002'}
+2021-01-22 11:50:24 - combinelogger - INFO -  
+2021-01-22 11:58:41 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=&custid_child=123&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:58:41 - combinelogger - INFO - except msg:The wrong parameter:({%s}:{%s})
+2021-01-22 11:58:41 - combinelogger - INFO - {'return_msg': 'The wrong parameter:({custid_parent}:{null})', 'return_code': '1001'}
+2021-01-22 11:58:41 - combinelogger - INFO -  
+2021-01-22 11:58:41 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=123123123&custid_child=321321321&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:58:41 - combinelogger - INFO - except msg:custid xxx not exist
+2021-01-22 11:58:41 - combinelogger - INFO - {'return_msg': 'custid 123123123 not exist', 'return_code': '1002'}
+2021-01-22 11:58:41 - combinelogger - INFO -  
+2021-01-22 11:58:41 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=11024&custid_child=123&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:58:41 - combinelogger - INFO - except msg:custid %s is not bind mobile
+2021-01-22 11:58:41 - combinelogger - INFO - {'return_msg': 'custid 11024 is not bind mobile', 'return_code': '1019'}
+2021-01-22 11:58:41 - combinelogger - INFO -  
+2021-01-22 11:58:41 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50226762&custid_child=50229482&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:58:41 - combinelogger - INFO - except msg:custid %s already bind mobile
+2021-01-22 11:58:41 - combinelogger - INFO - {'return_msg': 'custid 50229482 already bind mobile', 'return_code': '1017'}
+2021-01-22 11:58:41 - combinelogger - INFO -  
+2021-01-22 11:58:41 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50248490&custid_child=11152&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:58:41 - combinelogger - INFO - except msg:custid %s already bind same type third
+2021-01-22 11:58:41 - combinelogger - INFO - {'return_msg': 'custid 50248490 already bind same type third', 'return_code': '1018'}
+2021-01-22 11:58:41 - combinelogger - INFO -  
+2021-01-22 11:58:42 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50244688&custid_child=50245102&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:58:42 - combinelogger - INFO - except msg:custid %s already bind same type third
+2021-01-22 11:58:42 - combinelogger - INFO - {'return_msg': 'custid 50244688 already bind same type third', 'return_code': '1018'}
+2021-01-22 11:58:42 - combinelogger - INFO -  
+2021-01-22 11:58:42 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50226762&custid_child=50248085&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:58:42 - combinelogger - INFO - except msg:custid xxx combine repeat verify fail
+2021-01-22 11:58:42 - combinelogger - INFO - {'return_msg': 'custid 50248085 combine repeat verify fail', 'return_code': '1004'}
+2021-01-22 11:58:42 - combinelogger - INFO -  
+2021-01-22 11:58:42 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=720002100&custid_child=50262367&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:58:42 - combinelogger - INFO - except msg:custid %s already apply cancel
+2021-01-22 11:58:42 - combinelogger - INFO - {'return_msg': 'custid 720002100 already apply cancel', 'return_code': '1016'}
+2021-01-22 11:58:42 - combinelogger - INFO -  
+2021-01-22 11:58:42 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=730000688&custid_child=50262367&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:58:42 - combinelogger - INFO - except msg:custid %s enterprise verify fail
+2021-01-22 11:58:42 - combinelogger - INFO - {'return_msg': 'custid 730000688 enterprise verify fail', 'return_code': '1005'}
+2021-01-22 11:58:42 - combinelogger - INFO -  
+2021-01-22 11:58:43 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50226762&custid_child=50262367&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 11:58:43 - combinelogger - INFO - except msg:success
+2021-01-22 11:58:43 - combinelogger - INFO - {'return_code': '0', 'return_msg': 'success'}
+2021-01-22 11:58:43 - combinelogger - INFO -  
+2021-01-22 13:48:15 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=&custid_child=123&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 13:48:15 - combinelogger - INFO - except msg:The wrong parameter:({%s}:{%s})
+2021-01-22 13:48:15 - combinelogger - INFO - {'return_msg': 'The wrong parameter:({custid_parent}:{null})', 'return_code': '1001'}
+2021-01-22 13:48:15 - combinelogger - INFO -  
+2021-01-22 13:48:15 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=123123123&custid_child=321321321&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 13:48:15 - combinelogger - INFO - except msg:custid xxx not exist
+2021-01-22 13:48:15 - combinelogger - INFO - {'return_msg': 'custid 123123123 not exist', 'return_code': '1002'}
+2021-01-22 13:48:15 - combinelogger - INFO -  
+2021-01-22 13:48:15 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=11022&custid_child=123&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 13:48:15 - combinelogger - INFO - except msg:custid %s is not bind mobile
+2021-01-22 13:48:15 - combinelogger - INFO - {'return_msg': 'custid 11022 is not bind mobile', 'return_code': '1019'}
+2021-01-22 13:48:15 - combinelogger - INFO -  
+2021-01-22 13:48:15 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50226762&custid_child=50228989&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 13:48:15 - combinelogger - INFO - except msg:custid %s already bind mobile
+2021-01-22 13:48:15 - combinelogger - INFO - {'return_msg': 'custid 50228989 already bind mobile', 'return_code': '1017'}
+2021-01-22 13:48:15 - combinelogger - INFO -  
+2021-01-22 13:48:15 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50248489&custid_child=11152&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 13:48:15 - combinelogger - INFO - except msg:custid %s already bind same type third
+2021-01-22 13:48:15 - combinelogger - INFO - {'return_msg': 'custid 50248489 already bind same type third', 'return_code': '1018'}
+2021-01-22 13:48:15 - combinelogger - INFO -  
+2021-01-22 13:48:15 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50244691&custid_child=50233052&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 13:48:15 - combinelogger - INFO - except msg:custid %s already bind same type third
+2021-01-22 13:48:15 - combinelogger - INFO - {'return_msg': 'custid 50244691 already bind same type third', 'return_code': '1018'}
+2021-01-22 13:48:15 - combinelogger - INFO -  
+2021-01-22 13:48:15 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50226762&custid_child=50248085&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 13:48:15 - combinelogger - INFO - except msg:custid xxx combine repeat verify fail
+2021-01-22 13:48:15 - combinelogger - INFO - {'return_msg': 'custid 50248085 combine repeat verify fail', 'return_code': '1004'}
+2021-01-22 13:48:15 - combinelogger - INFO -  
+2021-01-22 13:48:15 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=720002097&custid_child=50262367&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 13:48:15 - combinelogger - INFO - except msg:custid %s already apply cancel
+2021-01-22 13:48:15 - combinelogger - INFO - {'return_msg': 'custid 720002097 already apply cancel', 'return_code': '1016'}
+2021-01-22 13:48:15 - combinelogger - INFO -  
+2021-01-22 13:48:15 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=730000688&custid_child=50262367&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 13:48:15 - combinelogger - INFO - except msg:custid %s enterprise verify fail
+2021-01-22 13:48:15 - combinelogger - INFO - {'return_msg': 'custid 730000688 enterprise verify fail', 'return_code': '1005'}
+2021-01-22 13:48:15 - combinelogger - INFO -  
+2021-01-22 13:48:16 - combinelogger - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50226762&custid_child=50262367&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+2021-01-22 13:48:16 - combinelogger - INFO - except msg:success
+2021-01-22 13:48:16 - combinelogger - INFO - {'return_code': '0', 'return_msg': 'success'}
+2021-01-22 13:48:16 - combinelogger - INFO -  

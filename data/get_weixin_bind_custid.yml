@@ -1,0 +1,4 @@
+#标识微信号的unionid
+unionid: 
+#返回格式
+result_format: json

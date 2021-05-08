@@ -1,0 +1,36 @@
+2021-01-21 19:02:51 - crawler - INFO - good good study
+2021-01-21 19:04:12 - crawler - INFO - good good study
+2021-01-21 19:31:54 - crawler - INFO - good good study
+2021-01-21 19:37:53 - crawler - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=&custid_child=123&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json&
+2021-01-21 19:37:53 - crawler - INFO - {'return_msg': 'The wrong parameter:({custid_parent}:{null})', 'return_code': '1001'}
+2021-01-21 19:37:53 - crawler - INFO -  
+2021-01-21 19:37:53 - crawler - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=123123123&custid_child=321321321&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json&
+2021-01-21 19:37:53 - crawler - INFO - {'return_msg': 'custid 123123123 not exist', 'return_code': '1002'}
+2021-01-21 19:37:53 - crawler - INFO -  
+2021-01-21 19:37:53 - crawler - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=11024&custid_child=123&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json&
+2021-01-21 19:37:53 - crawler - INFO - {'return_msg': 'custid 11024 is not bind mobile', 'return_code': '1019'}
+2021-01-21 19:37:53 - crawler - INFO -  
+2021-01-21 19:37:53 - crawler - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50226762&custid_child=720002077&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json&
+2021-01-21 19:37:53 - crawler - INFO - {'return_msg': 'custid 720002077 already bind mobile', 'return_code': '1017'}
+2021-01-21 19:37:53 - crawler - INFO -  
+2021-01-21 19:37:54 - crawler - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50248480&custid_child=50248511&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json&
+2021-01-21 19:37:54 - crawler - INFO - {'return_msg': 'custid 50248480 already bind same type third', 'return_code': '1018'}
+2021-01-21 19:37:54 - crawler - INFO -  
+2021-01-21 19:37:54 - crawler - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50244688&custid_child=50232657&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json&
+2021-01-21 19:37:54 - crawler - INFO - {'return_msg': 'custid 50244688 already bind same type third', 'return_code': '1018'}
+2021-01-21 19:37:54 - crawler - INFO -  
+2021-01-21 19:37:54 - crawler - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50226762&custid_child=50247854&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json&
+2021-01-21 19:37:54 - crawler - INFO - {'return_msg': 'custid 50247854 combine repeat verify fail', 'return_code': '1004'}
+2021-01-21 19:37:54 - crawler - INFO -  
+2021-01-21 19:37:54 - crawler - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=720002043&custid_child=11152&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json&
+2021-01-21 19:37:54 - crawler - INFO - {'return_msg': 'custid 720002043 already apply cancel', 'return_code': '1016'}
+2021-01-21 19:37:54 - crawler - INFO -  
+2021-01-21 19:37:54 - crawler - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=730000688&custid_child=11152&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json&
+2021-01-21 19:37:54 - crawler - INFO - {'return_msg': 'custid 730000688 enterprise verify fail', 'return_code': '1005'}
+2021-01-21 19:37:54 - crawler - INFO -  
+2021-01-21 19:37:55 - crawler - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50226762&custid_child=11152&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json&
+2021-01-21 19:37:55 - crawler - INFO - {'return_msg': 'database fail', 'return_code': '2002'}
+2021-01-21 19:37:55 - crawler - INFO -  
+2021-01-21 19:38:01 - crawler - INFO - http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50226762&custid_child=11152&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json&
+2021-01-21 19:38:01 - crawler - INFO - {'return_msg': 'database fail', 'return_code': '2002'}
+2021-01-21 19:38:01 - crawler - INFO -  

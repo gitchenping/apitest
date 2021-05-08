@@ -1,0 +1,4 @@
+INFO     combinelogger:log.py:91 http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=50244691&custid_child=50233052&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+INFO     combinelogger:log.py:92 except msg:custid %s already bind same type third
+INFO     combinelogger:log.py:93 {'return_msg': 'custid 50244691 already bind same type third', 'return_code': '1018'}
+INFO     combinelogger:log.py:94

@@ -1,0 +1,2 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:230 Starting new HTTP connection (1): 10.255.255.99:8100
+DEBUG    urllib3.connectionpool:connectionpool.py:442 http://10.255.255.99:8100 "GET /customer/loginapi/login_sms.php?mobile_phone=18811348258&vcode=123456&appkey=20020001&ip_address=192.199.199.199&watchdog_flg=1&permanent_id=23243242341241231212&trace_id=3234234242342132&source_url=http%3A%2F%2Fwww.ui.com&udid=abc29088809812121&client_version=10.7.0&result_format=json HTTP/1.1" 200 None

@@ -1,0 +1,4 @@
+INFO     combinelogger:log.py:91 http://10.255.255.99:8110/customer/combineapi/combine.php?custid_parent=720002100&custid_child=50262367&sessionid_parent=123123123&merge_channel=weixin&loginType=1&result_format=json
+INFO     combinelogger:log.py:92 except msg:custid %s already apply cancel
+INFO     combinelogger:log.py:93 {'return_msg': 'custid 720002100 already apply cancel', 'return_code': '1016'}
+INFO     combinelogger:log.py:94

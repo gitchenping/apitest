@@ -1,0 +1,8 @@
+INFO     loginlogger:log.py:91 http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.09&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+INFO     loginlogger:log.py:92 except msg:根据mobile_phone从customers表中读取的信息为空
+INFO     loginlogger:log.py:93 {'statusCode': '1', 'errorCode': '1'}
+INFO     loginlogger:log.py:94
+INFO     loginlogger:log.py:91 http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.09&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+INFO     loginlogger:log.py:92 except msg:根据mobile_phone从customers表中读取的信息为空
+INFO     loginlogger:log.py:93 {'statusCode': '1', 'errorCode': '1'}
+INFO     loginlogger:log.py:94

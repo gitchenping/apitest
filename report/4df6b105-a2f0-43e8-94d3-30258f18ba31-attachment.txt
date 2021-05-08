@@ -1,0 +1,4 @@
+INFO     changenickname:log.py:95 http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=78855105@qq.com&type=81&clientIP=192.168.90.09&isFrontendCall=no&comment=None&operatorName=auto_tester&result_format=json
+INFO     changenickname:log.py:96 except msg:新昵称已经在库
+INFO     changenickname:log.py:97 {'errorCode': '1', 'statusCode': '1'}
+INFO     changenickname:log.py:98

@@ -1,0 +1,2 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:230 Starting new HTTP connection (1): 10.255.255.99:8100
+DEBUG    urllib3.connectionpool:connectionpool.py:442 http://10.255.255.99:8100 "GET /customer/loginapi/weixin_unbind_delete.php?custid=50265273&result_format=json HTTP/1.1" 200 None

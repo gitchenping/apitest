@@ -1,0 +1,1 @@
+{"uuid": "6fde6d19-eacc-4beb-80b6-84e7a287b7a6", "children": ["e6a6ff22-b077-4c61-901d-041c7afba05d"], "befores": [{"name": "pyfixture", "status": "passed", "start": 1593603467304, "stop": 1593603467305}], "start": 1593603467304, "stop": 1593603467321}

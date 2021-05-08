@@ -1,0 +1,11 @@
+#初始设置各字段值
+#custid
+custid_parent: 123
+custid_child: 123
+sessionid_parent: 123123123
+#账号合并来源渠道
+merge_channel: weixin
+#登录类型
+loginType: 1
+#返回格式
+result_format: json

@@ -1,0 +1,596 @@
+2021-01-22 14:18:00 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.09&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:18:00 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 14:18:00 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 14:18:00 - loginlogger - INFO -  
+2021-01-22 14:26:22 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.09&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:26:22 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 14:26:22 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 14:26:22 - loginlogger - INFO -  
+2021-01-22 14:26:22 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.09&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:26:22 - loginlogger - INFO - except msg:根据mobile_phone从customers表中读取的信息为空
+2021-01-22 14:26:22 - loginlogger - INFO - {'statusCode': '1', 'errorCode': '1'}
+2021-01-22 14:26:22 - loginlogger - INFO -  
+2021-01-22 14:26:33 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.09&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:26:33 - loginlogger - INFO - except msg:根据mobile_phone从customers表中读取的信息为空
+2021-01-22 14:26:33 - loginlogger - INFO - {'statusCode': '1', 'errorCode': '1'}
+2021-01-22 14:26:33 - loginlogger - INFO -  
+2021-01-22 14:36:59 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.09&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:36:59 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 14:36:59 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 14:36:59 - loginlogger - INFO -  
+2021-01-22 14:36:59 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.09&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:36:59 - loginlogger - INFO - except msg:根据mobile_phone从customers表中读取的信息为空
+2021-01-22 14:36:59 - loginlogger - INFO - {'statusCode': '1', 'errorCode': '1'}
+2021-01-22 14:36:59 - loginlogger - INFO -  
+2021-01-22 14:37:09 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.09&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:37:09 - loginlogger - INFO - except msg:根据mobile_phone从customers表中读取的信息为空
+2021-01-22 14:37:09 - loginlogger - INFO - {'statusCode': '1', 'errorCode': '1'}
+2021-01-22 14:37:09 - loginlogger - INFO -  
+2021-01-22 14:38:40 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:38:40 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 14:38:40 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 14:38:40 - loginlogger - INFO -  
+2021-01-22 14:38:40 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:38:40 - loginlogger - INFO - except msg:根据mobile_phone从customers表中读取的信息为空
+2021-01-22 14:38:40 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 14:38:40 - loginlogger - INFO -  
+2021-01-22 14:52:58 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:52:58 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 14:52:58 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 14:52:58 - loginlogger - INFO -  
+2021-01-22 14:52:58 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:52:58 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 14:52:58 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 14:52:58 - loginlogger - INFO -  
+2021-01-22 14:52:58 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=2088502967620898&third_id=7&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:52:58 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 14:52:58 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730016517', 'email': '1810101902294554@ddmobilphone__user.com', 'nickname': '', 'custtype': '0', 'register_date': '2021-01-21 12:00:14', 'custid_parent': '730016517', 'custid_child': ['730016517'], 'sessionID': 'pc_796adff3a060f54e66e0a9fa52aedbe34dc78352e1b78329f81eb1c9d3c76953', 'registertype': '0', 'viptype': '0', 'validatedflag': '0', 'display_id': '2625080703944', 'agree_date': '2021-01-21 12:00:14', 'mobile_phone': '18101019022', 'introduct': '', 'custid_child_login': '730016517'}
+2021-01-22 14:52:58 - loginlogger - INFO -  
+2021-01-22 14:53:08 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=2088502967620898&third_id=7&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:53:08 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 14:53:08 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730016517', 'email': '1810101902294554@ddmobilphone__user.com', 'nickname': '', 'custtype': '0', 'register_date': '2021-01-21 12:00:14', 'custid_parent': '730016517', 'custid_child': ['730016517'], 'sessionID': 'pc_96bbd450fc20ccc2ccfb698abf48d478fc534620d0fec78fd8762b7b605423c0', 'registertype': '0', 'viptype': '0', 'validatedflag': '0', 'display_id': '2625080703944', 'agree_date': '2021-01-21 12:00:14', 'mobile_phone': '18101019022', 'introduct': '', 'custid_child_login': '730016517'}
+2021-01-22 14:53:08 - loginlogger - INFO -  
+2021-01-22 14:57:04 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:57:04 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 14:57:04 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 14:57:04 - loginlogger - INFO -  
+2021-01-22 14:57:04 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:57:04 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 14:57:04 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 14:57:04 - loginlogger - INFO -  
+2021-01-22 14:57:04 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=1316950133&third_id=5&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:57:04 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 14:57:04 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730016505', 'email': '1810101901149354@ddmobilphone__user.com', 'nickname': '', 'custtype': '0', 'register_date': '2021-01-20 19:44:44', 'custid_parent': '730016505', 'custid_child': ['730016505'], 'sessionID': 'pc_13cda579720a060b7e81f2e8b2bc28cfde19522c7198aa917f5e4490c82cdd6', 'registertype': '1', 'viptype': '0', 'validatedflag': '1', 'display_id': '5177960432441', 'agree_date': '2021-01-20 19:44:44', 'mobile_phone': '18101019011', 'introduct': '', 'custid_child_login': '730016505'}
+2021-01-22 14:57:04 - loginlogger - INFO -  
+2021-01-22 14:57:14 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=1316950133&third_id=5&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 14:57:14 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 14:57:14 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730016505', 'email': '1810101901149354@ddmobilphone__user.com', 'nickname': '', 'custtype': '0', 'register_date': '2021-01-20 19:44:44', 'custid_parent': '730016505', 'custid_child': ['730016505'], 'sessionID': 'pc_8d9f7a577fcffafda7a8f6e9d23be635c93e249badcd409007666d657509c10d', 'registertype': '1', 'viptype': '0', 'validatedflag': '1', 'display_id': '5177960432441', 'agree_date': '2021-01-20 19:44:44', 'mobile_phone': '18101019011', 'introduct': '', 'custid_child_login': '730016505'}
+2021-01-22 14:57:14 - loginlogger - INFO -  
+2021-01-22 15:01:19 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:01:19 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 15:01:19 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 15:01:19 - loginlogger - INFO -  
+2021-01-22 15:01:19 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:01:19 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 15:01:19 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 15:01:19 - loginlogger - INFO -  
+2021-01-22 15:01:19 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=1917276707&third_id=5&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:01:19 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 15:01:19 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730009639', 'email': 'e96a234cbb120926@sina_user.com', 'nickname': '', 'custtype': '0', 'register_date': '2020-09-28 20:54:53', 'custid_parent': '730009639', 'custid_child': ['730009639'], 'sessionID': 'pc_98cb4af925ce9b334004aa3a78b4047c50c513b15057f4d9f445cd6d6cd2d1bc', 'registertype': '0', 'viptype': '0', 'validatedflag': '0', 'display_id': '1131020717979', 'agree_date': '2020-09-28 20:54:53', 'mobile_phone': '13600000002', 'introduct': '', 'custid_child_login': '730009639'}
+2021-01-22 15:01:19 - loginlogger - INFO -  
+2021-01-22 15:01:30 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=1917276707&third_id=5&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:01:30 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 15:01:30 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730009639', 'email': 'e96a234cbb120926@sina_user.com', 'nickname': '', 'custtype': '0', 'register_date': '2020-09-28 20:54:53', 'custid_parent': '730009639', 'custid_child': ['730009639'], 'sessionID': 'pc_edd8a7e2fd84d28feef041f08659e62adc0e45037a66c00b81c3472c5bb67632', 'registertype': '0', 'viptype': '0', 'validatedflag': '0', 'display_id': '1131020717979', 'agree_date': '2020-09-28 20:54:53', 'mobile_phone': '13600000002', 'introduct': '', 'custid_child_login': '730009639'}
+2021-01-22 15:01:30 - loginlogger - INFO -  
+2021-01-22 15:16:12 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:16:12 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 15:16:12 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 15:16:12 - loginlogger - INFO -  
+2021-01-22 15:16:12 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:16:12 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 15:16:12 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 15:16:12 - loginlogger - INFO -  
+2021-01-22 15:16:12 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=8CB7D490B62A1622B7AF4EBC262F2A67&third_id=6&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:16:12 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 15:16:12 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730015601', 'email': '1850000025923640@ddmobilphone__user.com', 'nickname': '', 'custtype': '0', 'register_date': '2021-01-11 17:05:22', 'custid_parent': '730015601', 'custid_child': ['730015597'], 'sessionID': 'pc_52e79cb0efc98c1534ef72920d0cf785ecf9fd8a976505c029e86aa12a89bf50', 'registertype': '1', 'viptype': '0', 'validatedflag': '1', 'display_id': '4443010924620', 'agree_date': '2021-01-11 17:05:22', 'mobile_phone': '18500000259', 'introduct': '', 'custid_child_login': '730015597'}
+2021-01-22 15:16:12 - loginlogger - INFO -  
+2021-01-22 15:16:22 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=8CB7D490B62A1622B7AF4EBC262F2A67&third_id=6&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:16:22 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 15:16:22 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730015601', 'email': '1850000025923640@ddmobilphone__user.com', 'nickname': '', 'custtype': '0', 'register_date': '2021-01-11 17:05:22', 'custid_parent': '730015601', 'custid_child': ['730015597'], 'sessionID': 'pc_d0222d439bea99621e51e38375fad02dcd23f6ab1988b1d05b9ad0210b9596dd', 'registertype': '1', 'viptype': '0', 'validatedflag': '1', 'display_id': '4443010924620', 'agree_date': '2021-01-11 17:05:22', 'mobile_phone': '18500000259', 'introduct': '', 'custid_child_login': '730015597'}
+2021-01-22 15:16:22 - loginlogger - INFO -  
+2021-01-22 15:30:25 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:30:25 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 15:30:25 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 15:30:25 - loginlogger - INFO -  
+2021-01-22 15:30:25 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:30:25 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 15:30:25 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 15:30:25 - loginlogger - INFO -  
+2021-01-22 15:30:26 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=8CB7D490B62A1622B7AF4EBC262F2A67&third_id=6&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:30:26 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 15:30:26 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730015601', 'email': '1850000025923640@ddmobilphone__user.com', 'nickname': '', 'custtype': '0', 'register_date': '2021-01-11 17:05:22', 'custid_parent': '730015601', 'custid_child': ['730015597'], 'sessionID': 'pc_e5205be61860d8d6275c12cbb1c0ab79ce16e86502928b2d135590f4b88ddd52', 'registertype': '1', 'viptype': '0', 'validatedflag': '1', 'display_id': '4443010924620', 'agree_date': '2021-01-11 17:05:22', 'mobile_phone': '18500000259', 'introduct': '', 'custid_child_login': '730015597'}
+2021-01-22 15:30:26 - loginlogger - INFO -  
+2021-01-22 15:30:36 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=8CB7D490B62A1622B7AF4EBC262F2A67&third_id=6&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:30:36 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 15:30:36 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730015601', 'email': '1850000025923640@ddmobilphone__user.com', 'nickname': '', 'custtype': '0', 'register_date': '2021-01-11 17:05:22', 'custid_parent': '730015601', 'custid_child': ['730015597'], 'sessionID': 'pc_ad601814e6ed4c2b937d07e49fecfacc774b9a9ff4e3cf454cd707d86040101c', 'registertype': '1', 'viptype': '0', 'validatedflag': '1', 'display_id': '4443010924620', 'agree_date': '2021-01-11 17:05:22', 'mobile_phone': '18500000259', 'introduct': '', 'custid_child_login': '730015597'}
+2021-01-22 15:30:36 - loginlogger - INFO -  
+2021-01-22 15:40:15 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:40:15 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 15:40:15 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 15:40:15 - loginlogger - INFO -  
+2021-01-22 15:40:15 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:40:15 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 15:40:15 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 15:40:15 - loginlogger - INFO -  
+2021-01-22 15:40:15 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=1316950133&third_id=5&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:40:15 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 15:40:15 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730016505', 'email': '1810101901149354@ddmobilphone__user.com', 'nickname': '', 'custtype': '0', 'register_date': '2021-01-20 19:44:44', 'custid_parent': '730016505', 'custid_child': ['730016505'], 'sessionID': 'pc_97054fde686f1b14a6ed6c22c6c53bb963fbdd6aaae5ca510b87866dd0aa8ef3', 'registertype': '1', 'viptype': '0', 'validatedflag': '1', 'display_id': '5177960432441', 'agree_date': '2021-01-20 19:44:44', 'mobile_phone': '18101019011', 'introduct': '', 'custid_child_login': '730016505'}
+2021-01-22 15:40:15 - loginlogger - INFO -  
+2021-01-22 15:40:25 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=1316950133&third_id=5&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:40:25 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 15:40:25 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730016505', 'email': '1810101901149354@ddmobilphone__user.com', 'nickname': '', 'custtype': '0', 'register_date': '2021-01-20 19:44:44', 'custid_parent': '730016505', 'custid_child': ['730016505'], 'sessionID': 'pc_2953ca4aea4974009c95531ea76d317573e07a9d9c84307a41121eb6df5d639', 'registertype': '1', 'viptype': '0', 'validatedflag': '1', 'display_id': '5177960432441', 'agree_date': '2021-01-20 19:44:44', 'mobile_phone': '18101019011', 'introduct': '', 'custid_child_login': '730016505'}
+2021-01-22 15:40:25 - loginlogger - INFO -  
+2021-01-22 15:43:36 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:43:36 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 15:43:36 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 15:43:36 - loginlogger - INFO -  
+2021-01-22 15:43:36 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:43:36 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 15:43:36 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 15:43:36 - loginlogger - INFO -  
+2021-01-22 15:43:36 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=1917276707&third_id=5&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:43:36 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 15:43:36 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730009639', 'email': 'e96a234cbb120926@sina_user.com', 'nickname': '', 'custtype': '0', 'register_date': '2020-09-28 20:54:53', 'custid_parent': '730009639', 'custid_child': ['730009639'], 'sessionID': 'pc_1cf14f1b11dd60a300c01cc4957d7e9bdb58b93f218e82b48b4d820ecb7ab6ac', 'registertype': '0', 'viptype': '0', 'validatedflag': '0', 'display_id': '1131020717979', 'agree_date': '2020-09-28 20:54:53', 'mobile_phone': '13600000002', 'introduct': '', 'custid_child_login': '730009639'}
+2021-01-22 15:43:36 - loginlogger - INFO -  
+2021-01-22 15:43:46 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=1917276707&third_id=5&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 15:43:46 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 15:43:46 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730009639', 'email': 'e96a234cbb120926@sina_user.com', 'nickname': '', 'custtype': '0', 'register_date': '2020-09-28 20:54:53', 'custid_parent': '730009639', 'custid_child': ['730009639'], 'sessionID': 'pc_fb542791e9db45b4bbf4fd55ef29cbe3c29ed87e108f5359d415e9afeefca87d', 'registertype': '0', 'viptype': '0', 'validatedflag': '0', 'display_id': '1131020717979', 'agree_date': '2020-09-28 20:54:53', 'mobile_phone': '13600000002', 'introduct': '', 'custid_child_login': '730009639'}
+2021-01-22 15:43:46 - loginlogger - INFO -  
+2021-01-22 17:05:09 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:05:09 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 17:05:09 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 17:05:09 - loginlogger - INFO -  
+2021-01-22 17:05:09 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:05:09 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 17:05:09 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 17:05:09 - loginlogger - INFO -  
+2021-01-22 17:05:09 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=2088002625624980&third_id=7&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:05:09 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 17:05:09 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730016361', 'email': '1801018009075715@ddmobilphone__user.com', 'nickname': '', 'custtype': '0', 'register_date': '2021-01-13 13:55:05', 'custid_parent': '730016361', 'custid_child': ['730014638'], 'sessionID': 'pc_bab7b823acc172387638ca4c25d9d2572495a78693ef0053804d4e34ab5b2d5', 'registertype': '1', 'viptype': '0', 'validatedflag': '1', 'display_id': '5222550929255', 'agree_date': '2021-01-13 13:55:05', 'mobile_phone': '', 'introduct': '', 'custid_child_login': '730014638'}
+2021-01-22 17:05:09 - loginlogger - INFO -  
+2021-01-22 17:05:19 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=2088002625624980&third_id=7&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:05:19 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 17:05:19 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730016361', 'email': '1801018009075715@ddmobilphone__user.com', 'nickname': '', 'custtype': '0', 'register_date': '2021-01-13 13:55:05', 'custid_parent': '730016361', 'custid_child': ['730014638'], 'sessionID': 'pc_41f3ba72587f3ccaeb6619060b28333d84d2b7ad0ad681d79a9445ac0c7beaba', 'registertype': '1', 'viptype': '0', 'validatedflag': '1', 'display_id': '5222550929255', 'agree_date': '2021-01-13 13:55:05', 'mobile_phone': '', 'introduct': '', 'custid_child_login': '730014638'}
+2021-01-22 17:05:19 - loginlogger - INFO -  
+2021-01-22 17:12:24 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:12:24 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 17:12:24 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 17:12:24 - loginlogger - INFO -  
+2021-01-22 17:12:24 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:12:24 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 17:12:24 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 17:12:24 - loginlogger - INFO -  
+2021-01-22 17:12:24 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=2088002625624980&third_id=7&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:12:24 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 17:12:24 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 17:12:24 - loginlogger - INFO -  
+2021-01-22 17:12:34 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=2088002625624980&third_id=7&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:12:34 - loginlogger - INFO - except msg:根据custid从Customers表读取用户信息失败
+2021-01-22 17:12:34 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 17:12:34 - loginlogger - INFO -  
+2021-01-22 17:17:08 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:17:08 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 17:17:08 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 17:17:08 - loginlogger - INFO -  
+2021-01-22 17:17:08 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:17:08 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 17:17:08 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 17:17:08 - loginlogger - INFO -  
+2021-01-22 17:17:08 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=1316950133&third_id=5&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:17:08 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 17:17:08 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730016505', 'email': '1810101901149354@ddmobilphone__user.com', 'nickname': '', 'custtype': '0', 'register_date': '2021-01-20 19:44:44', 'custid_parent': '730016505', 'custid_child': ['730016505'], 'sessionID': 'pc_1414738c069abcfe37f3248cddd6822c4d3cb74644fee09a06795ceb6a974d9f', 'registertype': '1', 'viptype': '0', 'validatedflag': '1', 'display_id': '5177960432441', 'agree_date': '2021-01-20 19:44:44', 'mobile_phone': '18101019011', 'introduct': '', 'custid_child_login': '730016505'}
+2021-01-22 17:17:08 - loginlogger - INFO -  
+2021-01-22 17:17:18 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=1316950133&third_id=5&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:17:18 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 17:17:18 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730016505', 'email': '1810101901149354@ddmobilphone__user.com', 'nickname': '', 'custtype': '0', 'register_date': '2021-01-20 19:44:44', 'custid_parent': '730016505', 'custid_child': ['730016505'], 'sessionID': 'pc_9b86a835fdd013feb5d7299de22b7674482d793bf453d09c8273bb97e1eddff6', 'registertype': '1', 'viptype': '0', 'validatedflag': '1', 'display_id': '5177960432441', 'agree_date': '2021-01-20 19:44:44', 'mobile_phone': '18101019011', 'introduct': '', 'custid_child_login': '730016505'}
+2021-01-22 17:17:18 - loginlogger - INFO -  
+2021-01-22 17:21:43 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:21:43 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 17:21:43 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 17:21:43 - loginlogger - INFO -  
+2021-01-22 17:21:43 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:21:43 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 17:21:43 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 17:21:43 - loginlogger - INFO -  
+2021-01-22 17:21:43 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=DC61C2014A8EB5A7A3856AF9167DC899&third_id=6&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:21:43 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 17:21:43 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730016537', 'email': 'DC61C2014A8EB5A7A385@qq_user.com', 'nickname': '', 'custtype': '0', 'register_date': '2021-01-21 19:52:53', 'custid_parent': '730016537', 'custid_child': ['730016537'], 'sessionID': 'pc_a5b26826f30e4153b6a59717bfc9940d99ca0e710ea8ad12aa19d375c92fd1f0', 'registertype': '0', 'viptype': '0', 'validatedflag': '0', 'display_id': '1756210240902', 'agree_date': '2021-01-21 19:52:53', 'mobile_phone': '', 'introduct': '', 'custid_child_login': '730016537'}
+2021-01-22 17:21:43 - loginlogger - INFO -  
+2021-01-22 17:21:53 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=DC61C2014A8EB5A7A3856AF9167DC899&third_id=6&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:21:53 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 17:21:53 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '730016537', 'email': 'DC61C2014A8EB5A7A385@qq_user.com', 'nickname': '', 'custtype': '0', 'register_date': '2021-01-21 19:52:53', 'custid_parent': '730016537', 'custid_child': ['730016537'], 'sessionID': 'pc_9bfa434c8cf0c97c8e4f6a6d4d27b67043fc7a92442042d895f7ecda2df6ec1a', 'registertype': '0', 'viptype': '0', 'validatedflag': '0', 'display_id': '1756210240902', 'agree_date': '2021-01-21 19:52:53', 'mobile_phone': '', 'introduct': '', 'custid_child_login': '730016537'}
+2021-01-22 17:21:53 - loginlogger - INFO -  
+2021-01-22 17:25:17 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:25:17 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 17:25:17 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 17:25:17 - loginlogger - INFO -  
+2021-01-22 17:25:17 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:25:17 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 17:25:17 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 17:25:17 - loginlogger - INFO -  
+2021-01-22 17:25:17 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=oUGmh4rPg3VNduwNmmr9CPfpfyE0&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:25:17 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 17:25:17 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 17:25:17 - loginlogger - INFO -  
+2021-01-22 17:25:29 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:25:29 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 17:25:29 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 17:25:29 - loginlogger - INFO -  
+2021-01-22 17:25:29 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:25:29 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 17:25:29 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 17:25:29 - loginlogger - INFO -  
+2021-01-22 17:25:29 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=oUGmh4rPg3VNduwNmmr9CPfpfyE0&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:25:29 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 17:25:29 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 17:25:29 - loginlogger - INFO -  
+2021-01-22 17:36:07 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:36:07 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-01-22 17:36:07 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-01-22 17:36:07 - loginlogger - INFO -  
+2021-01-22 17:36:07 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:36:07 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 17:36:07 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 17:36:07 - loginlogger - INFO -  
+2021-01-22 17:36:07 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=oUGmh4rPg3VNduwNmmr9CPfpfyE0&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:36:07 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-01-22 17:36:07 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-01-22 17:36:07 - loginlogger - INFO -  
+2021-01-22 17:36:07 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=xs123&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-01-22 17:36:07 - loginlogger - INFO - except msg:用户名和密码都正确
+2021-01-22 17:36:07 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '50247541', 'email': 'dbcabeb58337f5bd@ddmobile_user.com', 'nickname': '', 'custtype': '0', 'register_date': '2016-06-12 15:40:02', 'custid_parent': '50247541', 'custid_child': ['50247541'], 'sessionID': 'pc_9c2bf8aef8429dbd896ee29d875db4ee6549ccc2ae988132672af251c9e69d5d', 'registertype': '0', 'viptype': '0', 'validatedflag': '0', 'display_id': '4510548039768', 'agree_date': '2016-06-12 15:40:02', 'mobile_phone': '', 'introduct': '', 'petname': 'wechattogther', 'custid_child_login': '50247541'}
+2021-01-22 17:36:07 - loginlogger - INFO -  
+2021-04-19 17:44:39 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-04-19 17:44:39 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-04-19 17:44:39 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-04-19 17:44:39 - loginlogger - INFO -  
+2021-04-19 17:44:41 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-04-19 17:44:41 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-04-19 17:44:41 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-04-19 17:44:41 - loginlogger - INFO -  
+2021-04-19 17:44:41 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=ocil5uFCAixKtzgExOq92wizLhGk&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-04-19 17:44:41 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-04-19 17:44:41 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-04-19 17:44:41 - loginlogger - INFO -  
+2021-04-19 17:44:42 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=xs123&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-04-19 17:44:42 - loginlogger - INFO - except msg:用户名和密码都正确
+2021-04-19 17:44:42 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '50247541', 'email': 'dbcabeb58337f5bd@ddmobile_user.com', 'nickname': '', 'custtype': '0', 'register_date': '2016-06-12 15:40:02', 'custid_parent': '50247541', 'custid_child': ['50247541'], 'sessionID': 'pc_b1eb9602910b3f6e9f3031b29efd1c6baa413bede2654c358624f107f6a2512d', 'registertype': '0', 'viptype': '0', 'validatedflag': '0', 'display_id': '4510548039768', 'agree_date': '2016-06-12 15:40:02', 'mobile_phone': '', 'introduct': '', 'petname': 'wechattogther', 'custid_child_login': '50247541'}
+2021-04-19 17:44:42 - loginlogger - INFO -  
+2021-04-19 18:02:25 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-04-19 18:02:25 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-04-19 18:02:25 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-04-19 18:02:25 - loginlogger - INFO -  
+2021-04-19 18:02:26 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-04-19 18:02:26 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-04-19 18:02:26 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-04-19 18:02:26 - loginlogger - INFO -  
+2021-04-19 18:02:26 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=ocil5uFCAixKtzgExOq92wizLhGk&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-04-19 18:02:26 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-04-19 18:02:26 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-04-19 18:02:26 - loginlogger - INFO -  
+2021-04-19 18:02:27 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=xs123&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-04-19 18:02:27 - loginlogger - INFO - except msg:用户名和密码都正确
+2021-04-19 18:02:27 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '50247541', 'email': 'dbcabeb58337f5bd@ddmobile_user.com', 'nickname': '', 'custtype': '0', 'register_date': '2016-06-12 15:40:02', 'custid_parent': '50247541', 'custid_child': ['50247541'], 'sessionID': 'pc_8ae3694aa796b704392a65acd428d767d8aba99307f4f3f19d7422c412408950', 'registertype': '0', 'viptype': '0', 'validatedflag': '0', 'display_id': '4510548039768', 'agree_date': '2016-06-12 15:40:02', 'mobile_phone': '', 'introduct': '', 'petname': 'wechattogther', 'custid_child_login': '50247541'}
+2021-04-19 18:02:27 - loginlogger - INFO -  
+2021-04-19 18:04:35 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-04-19 18:04:35 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-04-19 18:04:35 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-04-19 18:04:35 - loginlogger - INFO -  
+2021-04-19 18:04:36 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-04-19 18:04:36 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-04-19 18:04:36 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-04-19 18:04:36 - loginlogger - INFO -  
+2021-04-19 18:04:36 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=ocil5uFCAixKtzgExOq92wizLhGk&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-04-19 18:04:36 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-04-19 18:04:36 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-04-19 18:04:36 - loginlogger - INFO -  
+2021-04-19 18:04:36 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=xs123&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-04-19 18:04:36 - loginlogger - INFO - except msg:用户名和密码都正确
+2021-04-19 18:04:36 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '50247541', 'email': 'dbcabeb58337f5bd@ddmobile_user.com', 'nickname': '', 'custtype': '0', 'register_date': '2016-06-12 15:40:02', 'custid_parent': '50247541', 'custid_child': ['50247541'], 'sessionID': 'pc_d69d651e29635e12348397221a3ac472fba75585b1a6f66a77f7f7a3f9159b8d', 'registertype': '0', 'viptype': '0', 'validatedflag': '0', 'display_id': '4510548039768', 'agree_date': '2016-06-12 15:40:02', 'mobile_phone': '', 'introduct': '', 'petname': 'wechattogther', 'custid_child_login': '50247541'}
+2021-04-19 18:04:36 - loginlogger - INFO -  
+2021-04-19 18:11:32 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=111111&third_id=200&appkey=199999&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-04-19 18:11:32 - loginlogger - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-04-19 18:11:32 - loginlogger - INFO - {'statusCode': '-10', 'errorCode': '1'}
+2021-04-19 18:11:32 - loginlogger - INFO -  
+2021-04-19 18:11:32 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=556677889900&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-04-19 18:11:32 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-04-19 18:11:32 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-04-19 18:11:32 - loginlogger - INFO -  
+2021-04-19 18:11:32 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=ocil5uFCAixKtzgExOq92wizLhGk&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-04-19 18:11:32 - loginlogger - INFO - except msg:根据cust_third_id和third_id从share_sign_link表读取custid失败
+2021-04-19 18:11:32 - loginlogger - INFO - {'statusCode': '-1', 'errorCode': '1'}
+2021-04-19 18:11:32 - loginlogger - INFO -  
+2021-04-19 18:11:32 - loginlogger - INFO - http://10.255.255.99:8100/customer/loginapi/login_third.php?cust_third_id=xs123&third_id=200&appkey=1000&clientIP=192.168.90.19&permanent_id=232341211109877&udid=2333333333333987651&trace_id=2322222222221111119867&source_url=http://www.dangdang.com/index.php&android_device=None&petname=wechattogther&imgurl=None&openid=Ex23234261924012&qq_union_id=None&cust_sex=0&result_format=json
+2021-04-19 18:11:32 - loginlogger - INFO - except msg:用户名和密码都正确
+2021-04-19 18:11:32 - loginlogger - INFO - {'statusCode': '0', 'errorCode': '0', 'custid': '50247541', 'email': 'dbcabeb58337f5bd@ddmobile_user.com', 'nickname': '', 'custtype': '0', 'register_date': '2016-06-12 15:40:02', 'custid_parent': '50247541', 'custid_child': ['50247541'], 'sessionID': 'pc_289ad7eff7ad88cd7ab57b25d651228d6d893544f73a13986a32d7409baa6425', 'registertype': '0', 'viptype': '0', 'validatedflag': '0', 'display_id': '4510548039768', 'agree_date': '2016-06-12 15:40:02', 'mobile_phone': '', 'introduct': '', 'petname': 'wechattogther', 'custid_child_login': '50247541'}
+2021-04-19 18:11:32 - loginlogger - INFO -  
+2021-04-20 10:17:45 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=008cckuvf&type=81&clientIP=192.168.90.09&isFrontendCall=no&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:17:45 - changenickname - INFO - except msg:新昵称已经在库
+2021-04-20 10:17:45 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:17:45 - changenickname - INFO -  
+2021-04-20 10:17:56 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=008cckuvf&type=81&clientIP=192.168.90.09&isFrontendCall=no&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:17:56 - changenickname - INFO - except msg:新昵称已经在库
+2021-04-20 10:17:56 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:17:56 - changenickname - INFO -  
+2021-04-20 10:17:56 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=&new_nickname=None&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:17:56 - changenickname - INFO - except msg:参数错误
+2021-04-20 10:17:56 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:17:56 - changenickname - INFO -  
+2021-04-20 10:17:57 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=None&type=&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:17:57 - changenickname - INFO - except msg:参数错误
+2021-04-20 10:17:57 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:17:57 - changenickname - INFO -  
+2021-04-20 10:17:57 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=None&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json&ip_address=192.168.0.256
+2021-04-20 10:17:57 - changenickname - INFO - except msg:参数错误
+2021-04-20 10:17:57 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:17:57 - changenickname - INFO -  
+2021-04-20 10:17:57 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=18811000881&new_nickname=None&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:17:57 - changenickname - INFO - except msg:用户不存在
+2021-04-20 10:17:57 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:17:57 - changenickname - INFO -  
+2021-04-20 10:18:07 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=18811000881&new_nickname=None&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:18:07 - changenickname - INFO - except msg:用户不存在
+2021-04-20 10:18:07 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:18:07 - changenickname - INFO -  
+2021-04-20 10:18:07 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=tester_57&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:18:07 - changenickname - INFO - except msg:所有操作都成功
+2021-04-20 10:18:07 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:18:07 - changenickname - INFO -  
+2021-04-20 10:18:17 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=tester_57&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:18:17 - changenickname - INFO - except msg:所有操作都成功
+2021-04-20 10:18:17 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:18:17 - changenickname - INFO -  
+2021-04-20 10:39:27 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=008cckuvf&type=81&clientIP=192.168.90.09&isFrontendCall=no&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:39:27 - changenickname - INFO - except msg:新昵称已经在库
+2021-04-20 10:39:27 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:39:27 - changenickname - INFO -  
+2021-04-20 10:39:37 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=008cckuvf&type=81&clientIP=192.168.90.09&isFrontendCall=no&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:39:37 - changenickname - INFO - except msg:新昵称已经在库
+2021-04-20 10:39:37 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:39:37 - changenickname - INFO -  
+2021-04-20 10:39:37 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=&new_nickname=None&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:39:37 - changenickname - INFO - except msg:参数错误
+2021-04-20 10:39:37 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:39:37 - changenickname - INFO -  
+2021-04-20 10:39:37 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=None&type=&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:39:37 - changenickname - INFO - except msg:参数错误
+2021-04-20 10:39:37 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:39:37 - changenickname - INFO -  
+2021-04-20 10:39:37 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=None&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json&ip_address=192.168.0.256
+2021-04-20 10:39:37 - changenickname - INFO - except msg:参数错误
+2021-04-20 10:39:37 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:39:37 - changenickname - INFO -  
+2021-04-20 10:39:37 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=18811000881&new_nickname=None&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:39:37 - changenickname - INFO - except msg:用户不存在
+2021-04-20 10:39:37 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:39:37 - changenickname - INFO -  
+2021-04-20 10:39:47 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=18811000881&new_nickname=None&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:39:47 - changenickname - INFO - except msg:用户不存在
+2021-04-20 10:39:47 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:39:47 - changenickname - INFO -  
+2021-04-20 10:39:48 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=tester_9&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:39:48 - changenickname - INFO - except msg:所有操作都成功
+2021-04-20 10:39:48 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:39:48 - changenickname - INFO -  
+2021-04-20 10:39:58 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=tester_9&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:39:58 - changenickname - INFO - except msg:所有操作都成功
+2021-04-20 10:39:58 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:39:58 - changenickname - INFO -  
+2021-04-20 10:42:57 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=78855105@qq.com&type=81&clientIP=192.168.90.09&isFrontendCall=no&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:42:57 - changenickname - INFO - except msg:新昵称已经在库
+2021-04-20 10:42:57 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:42:57 - changenickname - INFO -  
+2021-04-20 10:43:07 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=78855105@qq.com&type=81&clientIP=192.168.90.09&isFrontendCall=no&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:43:07 - changenickname - INFO - except msg:新昵称已经在库
+2021-04-20 10:43:07 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:43:07 - changenickname - INFO -  
+2021-04-20 10:43:07 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=&new_nickname=None&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:43:07 - changenickname - INFO - except msg:参数错误
+2021-04-20 10:43:07 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:43:07 - changenickname - INFO -  
+2021-04-20 10:43:08 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=None&type=&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:43:08 - changenickname - INFO - except msg:参数错误
+2021-04-20 10:43:08 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:43:08 - changenickname - INFO -  
+2021-04-20 10:43:08 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=None&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json&ip_address=192.168.0.256
+2021-04-20 10:43:08 - changenickname - INFO - except msg:参数错误
+2021-04-20 10:43:08 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:43:08 - changenickname - INFO -  
+2021-04-20 10:43:08 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=18811000881&new_nickname=None&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:43:08 - changenickname - INFO - except msg:用户不存在
+2021-04-20 10:43:08 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:43:08 - changenickname - INFO -  
+2021-04-20 10:43:19 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=18811000881&new_nickname=None&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:43:19 - changenickname - INFO - except msg:用户不存在
+2021-04-20 10:43:19 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:43:19 - changenickname - INFO -  
+2021-04-20 10:43:19 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=tester_100&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:43:19 - changenickname - INFO - except msg:所有操作都成功
+2021-04-20 10:43:19 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:43:19 - changenickname - INFO -  
+2021-04-20 10:43:29 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=tester_100&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:43:29 - changenickname - INFO - except msg:所有操作都成功
+2021-04-20 10:43:29 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:43:29 - changenickname - INFO -  
+2021-04-20 10:51:53 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=/tp阿帅&type=81&clientIP=192.168.90.09&isFrontendCall=no&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:51:53 - changenickname - INFO - except msg:新昵称已经在库
+2021-04-20 10:51:53 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:51:53 - changenickname - INFO -  
+2021-04-20 10:52:03 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=/tp阿帅&type=81&clientIP=192.168.90.09&isFrontendCall=no&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:52:03 - changenickname - INFO - except msg:新昵称已经在库
+2021-04-20 10:52:03 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:52:03 - changenickname - INFO -  
+2021-04-20 10:52:03 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=&new_nickname=None&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:52:03 - changenickname - INFO - except msg:参数错误
+2021-04-20 10:52:03 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:52:03 - changenickname - INFO -  
+2021-04-20 10:52:03 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=None&type=&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:52:03 - changenickname - INFO - except msg:参数错误
+2021-04-20 10:52:03 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:52:03 - changenickname - INFO -  
+2021-04-20 10:52:03 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=None&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json&ip_address=192.168.0.256
+2021-04-20 10:52:03 - changenickname - INFO - except msg:参数错误
+2021-04-20 10:52:03 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:52:03 - changenickname - INFO -  
+2021-04-20 10:52:03 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=18811000881&new_nickname=None&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:52:03 - changenickname - INFO - except msg:用户不存在
+2021-04-20 10:52:03 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:52:03 - changenickname - INFO -  
+2021-04-20 10:52:14 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=18811000881&new_nickname=None&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:52:14 - changenickname - INFO - except msg:用户不存在
+2021-04-20 10:52:14 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:52:14 - changenickname - INFO -  
+2021-04-20 10:52:14 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=tester_69&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:52:14 - changenickname - INFO - except msg:所有操作都成功
+2021-04-20 10:52:14 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:52:14 - changenickname - INFO -  
+2021-04-20 10:52:24 - changenickname - INFO - http://10.255.255.99:8100/customer/loginapi/change_nickname.php?custid=286427653&new_nickname=tester_69&type=81&clientIP=192.168.90.09&isFrontendCall=False&comment=None&operatorName=auto_tester&result_format=json
+2021-04-20 10:52:24 - changenickname - INFO - except msg:所有操作都成功
+2021-04-20 10:52:24 - changenickname - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-20 10:52:24 - changenickname - INFO -  
+2021-04-30 15:33:41 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=2086750645&is_third_create=1&third_id=5&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 15:33:41 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作失败
+2021-04-30 15:33:41 - register_third - INFO - {'errorCode': '1', 'statusCode': '-5'}
+2021-04-30 15:33:41 - register_third - INFO -  
+2021-04-30 15:33:50 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=ocil5uOGziVsvftspX1Pmryl4_O4&is_third_create=1&third_id=200&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 15:33:50 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作失败
+2021-04-30 15:33:50 - register_third - INFO - {'errorCode': '1', 'statusCode': '-1'}
+2021-04-30 15:33:50 - register_third - INFO -  
+2021-04-30 15:34:00 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=ocil5uOGziVsvftspX1Pmryl4_O4&is_third_create=1&third_id=200&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 15:34:00 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作失败
+2021-04-30 15:34:00 - register_third - INFO - {'errorCode': '1', 'statusCode': '-1'}
+2021-04-30 15:34:00 - register_third - INFO -  
+2021-04-30 16:23:08 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=5&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 16:23:08 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作成功
+2021-04-30 16:23:08 - register_third - INFO - {'validatedflag': '1', 'display_id': '8894780678285', 'errorCode': '0', 'register_date': '2021-04-30 16:23:07', 'encryptvalidatecode': 'Jx0+cWBcV8VpTHLwu/xPLw==', 'sessionID': 'pc_c5429672400b4ec8d54ac2bcb0915882df0dea84fb972ce73c2fa5ce57fd6322', 'custtype': '0', 'vip_start_date': '', 'mobile_phone': '18800340027', 'update_mobile_date': '', 'json_info': '', 'custid': '730025992', 'nickname': '三方注册测试', 'registertype': '0', 'viptype': '0', 'validatecode': '93403586', 'agree_date': '2021-04-30 16:23:07', 'vip_end_date': '', 'tongdun_deviceid': None, 'email': 'third_auto_tester@dangdang.com', 'statusCode': '0'}
+2021-04-30 16:23:08 - register_third - INFO -  
+2021-04-30 16:28:09 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=5&validated_flag=1&appkey=199999&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 16:28:09 - register_third - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-04-30 16:28:09 - register_third - INFO - {'errorCode': '1', 'statusCode': '-10'}
+2021-04-30 16:28:09 - register_third - INFO -  
+2021-04-30 16:28:10 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=&is_third_create=1&third_id=&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 16:28:10 - register_third - INFO - except msg:参数格式不正确
+2021-04-30 16:28:10 - register_third - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-30 16:28:10 - register_third - INFO -  
+2021-04-30 16:28:11 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=5&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 16:28:11 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作成功
+2021-04-30 16:28:11 - register_third - INFO - {'validatedflag': '1', 'display_id': '1392230150011', 'errorCode': '0', 'register_date': '2021-04-30 16:28:09', 'encryptvalidatecode': 'AQTlH3o7l9hpTHLwu/xPLw==', 'sessionID': 'pc_8506357b21ce884256efaa880b9d4e85213c98751158ca738b1477870d5f7f4', 'custtype': '0', 'vip_start_date': '', 'mobile_phone': '18800340027', 'update_mobile_date': '', 'json_info': '', 'custid': '730025994', 'nickname': '三方注册测试', 'registertype': '0', 'viptype': '0', 'validatecode': '30329730', 'agree_date': '2021-04-30 16:28:09', 'vip_end_date': '', 'tongdun_deviceid': None, 'email': 'third_auto_tester@dangdang.com', 'statusCode': '0'}
+2021-04-30 16:28:11 - register_third - INFO -  
+2021-04-30 16:35:32 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=5&validated_flag=1&appkey=199999&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 16:35:32 - register_third - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-04-30 16:35:32 - register_third - INFO - {'errorCode': '1', 'statusCode': '-10'}
+2021-04-30 16:35:32 - register_third - INFO -  
+2021-04-30 16:35:32 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=&is_third_create=1&third_id=&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 16:35:32 - register_third - INFO - except msg:参数格式不正确
+2021-04-30 16:35:32 - register_third - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-30 16:35:32 - register_third - INFO -  
+2021-04-30 16:35:32 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=120666@qq.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=5&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 16:35:32 - register_third - INFO - except msg:邮箱已经存在库里
+2021-04-30 16:35:32 - register_third - INFO - {'errorCode': '1', 'statusCode': '-1'}
+2021-04-30 16:35:32 - register_third - INFO -  
+2021-04-30 16:35:32 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=5&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 16:35:32 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作成功
+2021-04-30 16:35:32 - register_third - INFO - {'validatedflag': '1', 'display_id': '6105550608438', 'errorCode': '0', 'register_date': '2021-04-30 16:35:31', 'encryptvalidatecode': 'J3LkF7NaJoRpTHLwu/xPLw==', 'sessionID': 'pc_8dc3c1636f07eccdc17d8698f83838162765aa75d1ae56e5a622d31558387050', 'custtype': '0', 'vip_start_date': '', 'mobile_phone': '18800340027', 'update_mobile_date': '', 'json_info': '', 'custid': '730025996', 'nickname': '三方注册测试', 'registertype': '0', 'viptype': '0', 'validatecode': '83417291', 'agree_date': '2021-04-30 16:35:31', 'vip_end_date': '', 'tongdun_deviceid': None, 'email': 'third_auto_tester@dangdang.com', 'statusCode': '0'}
+2021-04-30 16:35:32 - register_third - INFO -  
+2021-04-30 16:36:16 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=5&validated_flag=1&appkey=199999&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 16:36:16 - register_third - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-04-30 16:36:16 - register_third - INFO - {'errorCode': '1', 'statusCode': '-10'}
+2021-04-30 16:36:16 - register_third - INFO -  
+2021-04-30 16:36:16 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=&is_third_create=1&third_id=&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 16:36:16 - register_third - INFO - except msg:参数格式不正确
+2021-04-30 16:36:16 - register_third - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-30 16:36:16 - register_third - INFO -  
+2021-04-30 16:36:16 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=120666@qq.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=5&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 16:36:16 - register_third - INFO - except msg:邮箱已经存在库里
+2021-04-30 16:36:16 - register_third - INFO - {'errorCode': '1', 'statusCode': '-1'}
+2021-04-30 16:36:16 - register_third - INFO -  
+2021-04-30 16:36:16 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=EFF6F7244A1A6BB848787E320EFBF6CE&is_third_create=1&third_id=200&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 16:36:16 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作失败
+2021-04-30 16:36:16 - register_third - INFO - {'errorCode': '1', 'statusCode': '-5'}
+2021-04-30 16:36:16 - register_third - INFO -  
+2021-04-30 16:36:16 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=5&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 16:36:16 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作成功
+2021-04-30 16:36:16 - register_third - INFO - {'errorCode': '1', 'statusCode': '-1'}
+2021-04-30 16:36:16 - register_third - INFO -  
+2021-04-30 16:36:27 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=5&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 16:36:27 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作成功
+2021-04-30 16:36:27 - register_third - INFO - {'errorCode': '1', 'statusCode': '-1'}
+2021-04-30 16:36:27 - register_third - INFO -  
+2021-04-30 17:09:32 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=5&validated_flag=1&appkey=199999&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:09:32 - register_third - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-04-30 17:09:32 - register_third - INFO - {'errorCode': '1', 'statusCode': '-10'}
+2021-04-30 17:09:32 - register_third - INFO -  
+2021-04-30 17:09:32 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=&is_third_create=1&third_id=&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:09:32 - register_third - INFO - except msg:参数格式不正确
+2021-04-30 17:09:32 - register_third - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-30 17:09:32 - register_third - INFO -  
+2021-04-30 17:09:33 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=120666@qq.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=5&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:09:33 - register_third - INFO - except msg:邮箱已经存在库里
+2021-04-30 17:09:33 - register_third - INFO - {'errorCode': '1', 'statusCode': '-1'}
+2021-04-30 17:09:33 - register_third - INFO -  
+2021-04-30 17:09:33 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=15151561&is_third_create=1&third_id=200&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:09:33 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作失败
+2021-04-30 17:09:33 - register_third - INFO - {'errorCode': '1', 'statusCode': '-5'}
+2021-04-30 17:09:33 - register_third - INFO -  
+2021-04-30 17:09:33 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=300&validated_flag=1&appkey=1005&mobilephone=18811348250&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:09:33 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作成功
+2021-04-30 17:09:33 - register_third - INFO - {'validatedflag': '1', 'display_id': '2141748325306', 'errorCode': '0', 'register_date': '2021-04-30 17:09:32', 'encryptvalidatecode': 'JEiNExVxtHJGStTwEvntQA==', 'sessionID': 'pc_4565acd6b9d0004564a8e139810d223c202378fef5d6ce5360ea231ed00737c9', 'custtype': '0', 'vip_start_date': '2020-12-16 15:20:35', 'mobile_phone': '18811348250', 'update_mobile_date': '', 'json_info': '', 'custid': '286427653', 'nickname': '我是代理', 'registertype': '0', 'viptype': '0', 'validatecode': '25031269', 'agree_date': '2021-04-30 17:09:32', 'vip_end_date': '2021-12-16 15:20:35', 'tongdun_deviceid': None, 'email': '120666@qq.com', 'statusCode': '0'}
+2021-04-30 17:09:33 - register_third - INFO -  
+2021-04-30 17:10:28 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=5&validated_flag=1&appkey=199999&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:10:28 - register_third - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-04-30 17:10:28 - register_third - INFO - {'errorCode': '1', 'statusCode': '-10'}
+2021-04-30 17:10:28 - register_third - INFO -  
+2021-04-30 17:10:28 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=&is_third_create=1&third_id=&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:10:28 - register_third - INFO - except msg:参数格式不正确
+2021-04-30 17:10:28 - register_third - INFO - {'errorCode': '1', 'statusCode': '1'}
+2021-04-30 17:10:28 - register_third - INFO -  
+2021-04-30 17:10:28 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=120666@qq.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=5&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:10:28 - register_third - INFO - except msg:邮箱已经存在库里
+2021-04-30 17:10:28 - register_third - INFO - {'errorCode': '1', 'statusCode': '-1'}
+2021-04-30 17:10:28 - register_third - INFO -  
+2021-04-30 17:10:29 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=15151561&is_third_create=1&third_id=200&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:10:29 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作失败
+2021-04-30 17:10:29 - register_third - INFO - {'errorCode': '1', 'statusCode': '-5'}
+2021-04-30 17:10:29 - register_third - INFO -  
+2021-04-30 17:10:29 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=300&validated_flag=1&appkey=1005&mobilephone=18811348250&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:10:29 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作成功
+2021-04-30 17:10:29 - register_third - INFO - {'validatedflag': '1', 'display_id': '2141748325306', 'errorCode': '0', 'register_date': '2021-04-30 17:10:27', 'encryptvalidatecode': 'pDQQzQ/Bu2BGStTwEvntQA==', 'sessionID': 'pc_8d364f6673ef57a713a1b5565b4503ebb250d49e8cc29f68473a7f6d4cb2d85e', 'custtype': '0', 'vip_start_date': '2020-12-16 15:20:35', 'mobile_phone': '18811348250', 'update_mobile_date': '', 'json_info': '', 'custid': '286427653', 'nickname': '我是代理', 'registertype': '0', 'viptype': '0', 'validatecode': '41862572', 'agree_date': '2021-04-30 17:10:27', 'vip_end_date': '2021-12-16 15:20:35', 'tongdun_deviceid': None, 'email': '120666@qq.com', 'statusCode': '0'}
+2021-04-30 17:10:29 - register_third - INFO -  
+2021-04-30 17:16:40 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=300&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:16:40 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作成功
+2021-04-30 17:16:40 - register_third - INFO - {'errorCode': '1', 'statusCode': '-5'}
+2021-04-30 17:16:40 - register_third - INFO -  
+2021-04-30 17:16:51 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=300&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:16:51 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作成功
+2021-04-30 17:16:51 - register_third - INFO - {'errorCode': '1', 'statusCode': '-1'}
+2021-04-30 17:16:51 - register_third - INFO -  
+2021-04-30 17:17:39 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=300&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:17:39 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作成功
+2021-04-30 17:17:39 - register_third - INFO - {'validatedflag': '1', 'display_id': '8785060228336', 'errorCode': '0', 'register_date': '2021-04-30 17:17:38', 'encryptvalidatecode': 'CXs4eVmqxnppTHLwu/xPLw==', 'sessionID': 'pc_8fc4e453a07ebb58eca8600bbfff8ecda785140626330fd68a75d848d55e7eaa', 'custtype': '0', 'vip_start_date': '', 'mobile_phone': '18800340027', 'update_mobile_date': '', 'json_info': '', 'custid': '730025998', 'nickname': '三方注册测试', 'registertype': '0', 'viptype': '0', 'validatecode': '17777028', 'agree_date': '2021-04-30 17:17:38', 'vip_end_date': '', 'tongdun_deviceid': None, 'email': 'third_auto_tester@dangdang.com', 'statusCode': '0'}
+2021-04-30 17:17:39 - register_third - INFO -  
+2021-04-30 17:26:56 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=5&validated_flag=1&appkey=199999&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:26:56 - register_third - INFO - except msg:参数appkey未传值或传的值不是申请分配的
+2021-04-30 17:26:56 - register_third - INFO - {'errorCode': '1', 'statusCode': '-10'}
+2021-04-30 17:26:56 - register_third - INFO -  
+2021-04-30 17:26:56 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=ocil5uLlAbVjOWAqP6u59zy5AP1zr&is_third_create=1&third_id=200&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:26:56 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作失败
+2021-04-30 17:26:56 - register_third - INFO - {'errorCode': '1', 'statusCode': '-5'}
+2021-04-30 17:26:56 - register_third - INFO -  
+2021-04-30 17:26:56 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=6&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=UID_BB14BA073427CF3D7A2D2A062C75BB3E&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:26:56 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作失败
+2021-04-30 17:26:56 - register_third - INFO - {'errorCode': '1', 'statusCode': '-1'}
+2021-04-30 17:26:56 - register_third - INFO -  
+2021-04-30 17:27:07 - register_third - INFO - http://10.255.255.99:8100/customer/loginapi/register_third.php?email=third_auto_tester@dangdang.com&password=dd1234&cust_third_id=67823249800001223&is_third_create=1&third_id=6&validated_flag=1&appkey=1005&mobilephone=18800340027&nickname=三方注册测试&registerfrom=http://xx.com&clientIP=192.168.90.34&source_url=http://www.cc.com&permanent_id=&trace_id=&from_platform=2&union_id=&openid=&qq_union_id=UID_BB14BA073427CF3D7A2D2A062C75BB3E&type=&cust_sex=0&imgurl=&petname=&json_info=
+2021-04-30 17:27:07 - register_third - INFO - except msg:往customer库的Customers表里插入用户注册数据操作失败
+2021-04-30 17:27:07 - register_third - INFO - {'errorCode': '1', 'statusCode': '-1'}
+2021-04-30 17:27:07 - register_third - INFO -  

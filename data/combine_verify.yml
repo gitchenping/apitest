@@ -1,0 +1,4 @@
+#用户id
+custid:
+#返回格式
+result_format: json

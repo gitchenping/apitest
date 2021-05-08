@@ -1,0 +1,36 @@
+#用户手机号码
+mobile_phone: 18811348250
+#密码
+password: dd1234
+#具体请参见上面的appkey参数说明表格 （如果有别的项目需要调用此接口，请先申请分配一个appkey的值）
+appkey: 1000
+#ip地址
+ip_address: 192.168.90.10
+#是否进行watchdog检测的标志（1：不进行watchdog检测，为其它值或为空时都检测）
+watchdog_flg: 1
+permanent_id: 213123123121212
+trace_id: 234241231212312
+source_url:
+#int类型，32位数字
+token_id:
+#app类客户端唯一标志，由数字、字母a~f组成
+udid:
+#版本号(格式 x.x.x)
+client_version:
+#是否输入了验证码的标识，0代表没有输入验证码，1代表输入了验证码
+is_input_vcode: 0
+#是否选择了自动登录，on：自动登录，off：非自动登录（此参数目前只供主站登录及登录弹层使用，
+#用于在日志中区分当appkey=1000时是否为自动登录，除此之外的地方调用登录接口时不需要此参数）
+autokey:
+#接收无线登录注册时的客户端信息，写入session缓存
+json_info:
+#登录密码字段是否使用了rsa加密，1-加密，0或空-未加密
+rsa_encrypted :
+#存储数盟数据相关设备信息等，必须是json格式
+android_device:
+#同盾设备标识
+tongdun_deviceid:
+#数美设备标识
+shumei_deviceid:
+#返回格式
+result_format: json

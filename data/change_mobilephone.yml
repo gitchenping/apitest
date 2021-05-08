@@ -1,0 +1,19 @@
+#用户id
+custid: 286427653
+#用户输入的新手机号
+mobile_phone: 18811348250
+#customerlog.cust_change_log表中记录的修改类型
+type: 7
+#用户ip
+clientIP: 192.168.10.23
+#取值为yes/no，yes表明是前台调用此接口，日志写入customerlog.dbo.cust_change_log表；no表明是后台调用此接口，日志写入custo
+#merlog.dbo.backoffice_cust_change_log表
+isFrontendCall: 'no'
+#后台调用接口时修改用户信息的操作人员名称。当isFrontendCall取值no时，operatorName必须有值。
+operatorName: auto_tester
+#分配的appkey
+appkey: 1000
+#微信unionid
+unionId: ''
+#微信openid
+openId: ''

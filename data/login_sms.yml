@@ -1,0 +1,27 @@
+#用户手机号码
+mobile_phone: 18811348250
+#短信验证码
+vcode: 123456
+#具体请参见上面的appkey参数说明表格 （如果有别的项目需要调用此接口，请先申请分配一个appkey的值）
+appkey: 20020001
+#ip地址,一个特殊的ip,作为数据库查询条件
+ip_address: 192.199.199.199
+#是否进行watchdog检测的标志（1：不进行watchdog检测，为其它值或为空时都检测）
+watchdog_flg: 1
+permanent_id: 23243242341241231212
+trace_id: 3234234242342132
+source_url: http://www.ui.com
+#app类客户端唯一标志，由数字、字母a~f组成
+udid: abc29088809812121
+#版本号(格式 x.x.x)
+client_version: 10.7.0
+#是否选择了自动登录，on：自动登录，off：非自动登录（此参数目前只供主站登录及登录弹层使用，
+#用于在日志中区分当appkey=1000时是否为自动登录，除此之外的地方调用登录接口时不需要此参数）
+autokey:
+#接收无线登录注册时的客户端信息，写入session缓存
+json_info:
+#同盾设备标识
+tongdun_deviceid:
+#数美设备设备标识
+shumei_deviceid:
+result_format: json

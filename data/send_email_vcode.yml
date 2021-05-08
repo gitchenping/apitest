@@ -1,0 +1,12 @@
+#用户ID （如果没有custid则请传值0）
+custid: 0
+#邮箱
+email: 120666@qq.com
+#验证类型 （1:安全中心身份验证 2:结算页设置支付密码时发邮件 6:忘记密码）
+verify_type: 1
+#调用方名称（如果不传此参数，则默认的值为'newloginapi_send_email_vcode_'+verify_type）
+app_from: ''
+#每天发送最大次数，单位：次（不传值的话默认为5次）
+max_send_time: 5
+#短信验证码的有效时间，单位：天（不传值的话默认为1天）
+effective_time: 1

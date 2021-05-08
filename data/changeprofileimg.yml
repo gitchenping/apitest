@@ -1,0 +1,10 @@
+#修改用户图像
+#用户id
+custid: 286427653
+#图片大小
+img_size: 100
+#图片类型
+img_type: png
+#图像内容 特别注意：请求php版本直接传递文件内容，请求java接口请使用base64编码后传递
+img_data:
+result_format: json

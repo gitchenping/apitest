@@ -1,0 +1,19 @@
+#初始设置各字段值
+#custid
+cust_id: 286427653
+#keyword: keyword 枚举：new_sex 性别, new_address 住址, new_birthday 生日, station,
+#blog_url, state, interest 兴趣爱好, taste, introduct 个人简介, station_type；为空时查询全部
+keyword:
+  - new_sex
+  - new_address
+  - new_birthday
+  - station
+  - blog_url
+  - state
+  - interest
+  - taste
+  - introduct
+  - station_type
+content:
+#返回格式
+result_format: json

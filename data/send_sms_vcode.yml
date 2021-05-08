@@ -1,0 +1,18 @@
+#用户ID	是	（如果没有custid则请传值0）
+custid: 286427653
+#手机号	是
+mobile_phone: 18811348250
+#验证类型验证类型 1:完成手机绑定 2: 修改手机号码 3:新加手机绑定 4:修改手机绑定 5:新用户手机注册 6:忘记密码 7:移动购物和数字阅读开发部短
+verify_type: 2
+#客户端ip地址	否
+ip_address: '192.168.90.18'
+#调用方名称	否	（如果不传此参数，则默认的值为'newloginapi_send_sms_vcode_'+verify_type）
+app_from: ''
+#每天发送最大次数 单位：次	否	不传值的话默认为5次
+max_send_time: ''
+#短信验证码的有效时间，单位参考 time_unit参数	否	不传值的话默认为2小时
+effective_time: ''
+#有效时间单位 可选（h,m,s）	否	201809新增 h代表小时，m代表分钟，s代表秒，如果不传默认h 兼容处理
+time_unit: ''
+#appkey
+appkey: 1000

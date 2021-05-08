@@ -1,0 +1,19 @@
+#初始设置各字段值
+#微信union_id
+union_id: fake123123test1231
+#custid
+custid: 123456
+#具体请参见上面的appkey参数说明表格 （如果有别的项目需要调用此接口，请先申请分配一个appkey的值）
+appkey: 2200
+#open_id
+open_id: fakeopenid201912247891122
+#注册时ip
+ip_address: 192.168.100.200
+#cookie["__permant_id"]
+permanent_id: 1231231132131313
+#cookie["__trace_id"]
+trace_id: 12312213122222222
+#来源地址,记录日志用
+source_url: http://www.testweb.com
+#返回格式
+result_format: json

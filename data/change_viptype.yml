@@ -1,0 +1,16 @@
+#接口调用的授权key值
+authKey: change_viptype_crypto_key_initial
+#用户ID
+custid: 286427653
+#更新后的会员级别
+newViptype: 2
+#新会员级别的起始时间
+vip_start_date: '2020-12-16 15:20:35'
+#新会员级别的结束时间
+vip_end_date: '2021-12-16 15:20:35'
+#记录到customerlog.dbo.cust_change_log表中的type字段，记录修改类型
+type: 81
+#客户端ip
+clientIP: 192.168.90.34
+#接口调用说明。记录到customerlog:cust_change_log表中的email字段:
+comment: ''

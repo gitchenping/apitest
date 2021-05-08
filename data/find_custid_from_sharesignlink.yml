@@ -1,0 +1,6 @@
+#第三方客户ID
+cust_third_id:
+#第三方标识（1->平安，2->财富通，3->qq返利，4->中国移动手机，5->sina，6->qq，7->alipay，8->renren，9->netease，10->msn，11->baidu，12->139，13->fetion...）
+third_id:
+#third_id==6 时传递
+qq_union_id:

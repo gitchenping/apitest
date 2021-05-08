@@ -1,0 +1,46 @@
+#用户邮箱
+email: 19911348250@dangdang.com
+#用户手机
+mobilephone: 19911348250
+#用户昵称（只能由由小写英文字母、中文、数字组成，不能为纯数字，长度4－20个字符，一个汉字为两个字符）
+nickname: book多得
+#用户密码
+password: dd12345
+#联系电话（格式如 010-57991122）
+telphone: 010-57991122
+#国家id，默认9000
+country_id: 9000
+#省id
+province_id: 111
+#市id，若无，取上级id
+city_id: 1
+#四级id，若无，取上级id
+town_id: 1110103
+#五级id，若无，取上级id
+quarter_id: 45
+#详细地址
+addr_detail: 中国北京市朝阳区静安中心21层
+#公司名
+company: 静安中心book多得进出口有限公司
+#联系人
+contactor: 不可多得
+#注册来源类型（数据库中 0：邮箱注册，1：手机号注册，1：第三方登录注册）
+registion_type: 0
+#具体请参见上面的appkey参数说明表格 （如果有别的项目需要调用此接口，请先申请分配一个appkey的值）
+appkey: 1000
+#来源地址, customers表用
+registerfrom: pc
+#注册类型（0：被动注册，1：主动注册）
+registertype: 1
+#注册时ip
+clientIP: 192.168.90.23
+#来源地址,记录日志用
+source_url: www.tester.com
+#cookie["__permant_id"]
+permanent_id: ''
+#cookie["__trace_id"]
+trace_id: ''
+#来源平台
+from_platform: 100
+#联盟ID
+union_id: ''
